@@ -1,5 +1,13 @@
-# SitOnChair_PixelPerfect
-My first website project for Coders Lab. <br>
-Technologies used in the design of website: HTML, CSS nad Java Script.
-[https://github.com/bialikanna/SitOnChair_PixelPerfect/blob/master/warsztat1.jpg]
+## SitOnChair_WorkShop 
+
+## Demo link: https://bialikanna.github.io/SitOnChair_PixelPerfect/
+
+## General info:
+My first website project on the Coders Lab Bootcamp. <br>
+
+## Technologies:
+* HTML 
+* CSS 
+* Java Script
+<br>
 ![Algorithm schema](./warsztat1.jpg)
