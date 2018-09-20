@@ -1,6 +1,6 @@
 # SitOnChair_WorkShop 
 
-### Demo link: https://bialikanna.github.io/SitOnChair_PixelPerfect/
+## Demo link: https://bialikanna.github.io/SitOnChair_PixelPerfect/
 
 ## General info:
 My first website project on the Coders Lab Bootcamp. <br>
