@@ -9,5 +9,5 @@ My first website project on the Coders Lab Bootcamp. <br>
 * HTML 
 * CSS 
 * Java Script
-<br>
+
 ![Algorithm schema](./warsztat1.jpg)
